@@ -7,7 +7,7 @@ Jedná se o třetí projekt v rámci Python akademie, který je zaměřen na ap
 
 ## Obsah projektu
 Projekt obsahuje dohromady 4 soubory, kterými jsou:
-- `elections_scraper.py`: Hlavní skript pro scraping volebních výsledků.
+- `projekt_3.py`: Hlavní skript pro scraping volebních výsledků.
 - `requirements.txt`: Seznam knihoven potřebných k běhu skriptu.
 - `README.md`: Dokumentace k projektu.
 - `vysledky_beroun.csv`: CSV soubor s ukázkou výstupu po spuštění kódu a uvedení správných parametrů.
