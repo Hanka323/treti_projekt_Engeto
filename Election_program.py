@@ -1,6 +1,5 @@
 """
 projekt_3.py: třetí projekt do Engeto Online Python Akademie
-
 author: Hana Břinková
 email: hanakupska@gmail.com
 discord: Hanka323
